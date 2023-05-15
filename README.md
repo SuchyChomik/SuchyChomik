@@ -26,4 +26,4 @@ I make some things that I shouldn't
 
 ## 💼 Stats and other shit
 
-https://img.shields.io/youtube/channel/subscribers/UCJ4pzjMvsnu43c7gvrXJKGA?style=social
+<a href="youtube.com/@notsuchychomik"><img align="left" src="https://img.shields.io/youtube/channel/subscribers/UCJ4pzjMvsnu43c7gvrXJKGA?style=social" alt="youtube" width="21px"/></a>
