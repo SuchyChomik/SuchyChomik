@@ -15,15 +15,6 @@ I make some things that I shouldn't
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- Batch "viruses"
-- C# Apps
-
-## 🌱 I'm currently learning
-
-- more C#  
-
-## 💼 Stats and other shit
+## 💼 Stats
 
 [![SuchyChomik's Youtube stats](https://img.shields.io/youtube/channel/subscribers/UCJ4pzjMvsnu43c7gvrXJKGA?style=social)](youtube.com/@NotSuchyChomik)
