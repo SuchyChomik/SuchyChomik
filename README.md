@@ -17,4 +17,4 @@ I make some things that I shouldn't
 
 ## 💼 Stats
 
-[![SuchyChomik's Youtube stats](https://img.shields.io/youtube/channel/subscribers/UCJ4pzjMvsnu43c7gvrXJKGA?style=social)](youtube.com/@NotSuchyChomik)
+[![SuchyChomik's Youtube stats](https://img.shields.io/youtube/channel/subscribers/UC876_aDsUR4TUzwQ2gYn1yg?style=social)](youtube.com/@grenfish)
