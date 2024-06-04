@@ -1,5 +1,5 @@
 <h2 align="center">
-I'm a shitty C# Developer 💻!
+I'm a shitty C# Developer!
 </h2> 
 
 I make some things that I shouldn't
