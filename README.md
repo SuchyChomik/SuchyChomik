@@ -1,4 +1,4 @@
 <h2 align="center">
-I think I'm a C# developer.
+Shitty website made visually in Nicepage cuz idk html, css or jscript
 </h2> 
 
